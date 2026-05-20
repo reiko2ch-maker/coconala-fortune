@@ -8,6 +8,7 @@ GitHub Pagesでそのまま公開できる静的サイトです。
 - `styles.css`: 黒×紫×青×ゴールドの近未来サイバー調スタイル
 - `main.js`: スクロール表示とアンカー遷移
 - `assets/slide01.jpg`〜`assets/slide20.jpg`: 記事内図解画像（軽量JPEG版）
+- `assets/genre-bridge-01.jpg`〜`assets/genre-bridge-04.jpg`: 前半のジャンル導入補足画像
 - `assets/line-cta.jpg`: LINE誘導CTA画像
 - `assets/niko-result-01.jpg`〜`assets/niko-result-05.jpg`: niko本人の実績画像
 - `assets/student-result-01.jpg`〜`assets/student-result-08.jpg`: 生徒さんの実績報告画像
